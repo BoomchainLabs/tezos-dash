@@ -1,0 +1,16 @@
+name: tezos-dash
+id: ari:cloud:compass:2eefe999-d61b-469c-92ef-31fc5e9b3f13:component/ace244a1-3ae8-43fb-8c96-347d12170341/0153f23b-b5ff-4d10-a7a6-0027fde5504b
+description: Tezos Explorer
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Boomtoknlab/tezos-dash
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
