@@ -86,6 +86,8 @@ export default {
         sans: ["var(--font-sans)"],
         serif: ["var(--font-serif)"],
         mono: ["var(--font-mono)"],
+        display: ["'Outfit'", "sans-serif"],
+        body: ["'DM Sans'", "sans-serif"],
       },
       keyframes: {
         "accordion-down": {
